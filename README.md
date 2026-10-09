@@ -1,4 +1,38 @@
 <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Elijah | Security Engineer | Omara Enterprise Guard</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Inter,system-ui;background:#020617;color:#fff;overflow-x:hidden}
+.hero{
+ min-height:100vh;
+ background:
+ radial-gradient(800px at 20% 10%, rgba(6,182,212,0.18) 0%, transparent 60%),
+ radial-gradient(600px at 80% 80%, rgba(59,130,246,0.18) 0%, transparent 60%),
+ linear-gradient(180deg,#020617 0%,#0f172a 100%);
+ display:flex;align-items:center;justify-content:center;padding:40px 20px;position:relative
+}
+.hero::before{
+ content:"";position:absolute;inset:0;
+ background:linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+ background-size:40px 40px;mask-image:radial-gradient(600px at 50% 30%, black 30%, transparent 80%)
+}
+.glass{
+ position:relative;z-index:2;max-width:980px;width:100%;
+ background:linear-gradient(180deg, rgba(15,23,42,0.8), rgba(15,23,42,0.4));
+ backdrop-filter:blur(24px);border:1px solid rgba(6,182,212,0.2);border-radius:28px;
+ padding:56px 40px;box-shadow:0 0 100px rgba(6,182,212,0.12), inset 0 1px 0 rgba(255,255,255,0.06)
+}
+.badge{display:inline-flex;gap:8px;align-items:center;background:rgba(6,182,212,0.1);border:1px solid rgba(6,182,212,0.3);color:#22d3ee;padding:8px 16px;border-radius:100px;font-size:11px;font-weight:700;letter-spacing:1.5px}
+h1{font-size:58px;line-height:0.9;letter-spacing:-3px;margin:24px 0 12px;background:linear-gradient(90deg,#fff 30%,#22d3ee 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.sub{color:#94a3b8;font-size:19px;max-width:620px;line-height:1.5;margin-bottom:32px}
+.stats{display:flex;gap:12px;flex-wrap:wrap;margin:32px 0}
+.s{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);padding:16px 20px;border-radius:14px;min-width:150px}
+.s b{color:#22d3ee;font-size:24px;display:block}.s span{font-size:11px;letter-spacing:1px;color:#64748b;text-transform:uppercase}
+.btn{display:inline-block;padding:15px 26px;border-radius:12px;font-weight:700;text-decoration:none;font-size:14px;margin-right:12px}
+.btn-cyan{background:#22d3ee;color:#000;box-shadow:0 0 40px rgba(34,211,238,0.4<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
