@@ -3,6 +3,67 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OMARA ENTERPRISE GUARD — Ultra Secure Infrastructure</title>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#080808;color:#f5f5f3;font-family:Inter,sans-serif;-webkit-font-smoothing:antialiased}
+.serif{font-family:'Instrument Serif',serif}
+.nav{height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;border-bottom:1px solid #1a1a1a;position:sticky;top:0;background:rgba(8,8,8,0.7);backdrop-filter:blur(24px);z-index:10}
+.hero{max-width:1440px;margin:0 auto;padding:120px 40px 80px;display:grid;grid-template-columns:1fr 440px;gap:80px}
+@media(max-width:1000px){.hero{grid-template-columns:1fr;padding:64px 24px}}
+h1{font-size:82px;line-height:0.85;letter-spacing:-4px;font-weight:400}
+@media(max-width:1000px){h1{font-size:48px;letter-spacing:-2px}}
+h1 i{font-weight:400;color:#a1a1a0}
+.line{height:1px;background:linear-gradient(90deg,#1a1a1a,transparent);margin:32px 0}
+.sub{font-size:18px;line-height:1.6;color:#9a9a99;max-width:480px}
+.meta{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#5a5a5a;display:flex;gap:24px;margin-top:32px}
+.card{background:#111112;border:1px solid #1e1e1e;border-radius:24px;padding:28px;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(600px at 0% 0%,rgba(255,255,255,0.06),transparent 60%)}
+.badge{font-size:10px;letter-spacing:2px;background:#f5f5f3;color:#080808;padding:6px 10px;border-radius:100px;font-weight:600;display:inline-block;margin-bottom:20px}
+.grid{max-width:1440px;margin:0 auto;padding:0 40px 80px;display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
+@media(max-width:1000px){.grid{padding:0 24px 40px;grid-template-columns:1fr}}
+.col4{grid-column:span 4}.col8{grid-column:span 8}.col12{grid-column:span 12}
+@media(max-width:1000px){.col4,.col8,.col12{grid-column:span 1}}
+.item{border:1px solid #1a1a1a;border-radius:20px;padding:32px;background:#0f0f0f}
+.item h3{font-size:15px;font-weight:500;margin-bottom:12px;color:#f5f5f3}
+.item p{font-size:14px;line-height:1.6;color:#7a7a7a}
+.footer{border-top:1px solid #1a1a1a;padding:32px 40px;display:flex;justify-content:space-between;color:#5a5a5a;font-size:12px}
+</style>
+</head>
+<body>
+
+<div class="nav">
+<div style="font-size:14px;letter-spacing:-0.5px;font-weight:600">OMARA ENTERPRISE GUARD</div>
+<div style="font-size:11px;letter-spacing:2px;color:#5a5a5a">KAMPALA • ULTRA SECURE • EST 2026</div>
+</div>
+
+<div class="hero">
+<div>
+<div style="font-size:11px;letter-spacing:3px;color:#5a5a5a;margin-bottom:24px">● LIVE • FOUNDER: OMARA ELIJAH — SECURITY ENGINEER</div>
+<h1 class="serif">Security<br><i>that feels</i><br>invisible.</h1>
+<div class="line"></div>
+<p class="sub">We build enterprise-grade security & monitoring infrastructure trusted for modern apps. From Kampala, Uganda — for companies that cannot afford to be breached.</p>
+<div class="meta"><span>NDA • YOU OWN CODE</span><span>100% CONFIDENTIAL</span><span>MONEY-BACK</span></div>
+<div style="margin-top:36px;display:flex;gap:12px">
+<a href="mailto:omaraelijah74@gmail.com" style="background:#f5f5f3;color:#080808;padding:14px 24px;border-radius:100px;text-decoration:none;font-size:13px;font-weight:600">Start Project →</a>
+<a href="https://github.com/omaraelijah74-oss" style="border:1px solid #222;color:#f5f5f3;padding:14px 24px;border-radius:100px;text-decoration:none;font-size:13px">GitHub ↗</a>
+</div>
+</div>
+
+<div class="card">
+<div class="badge">OMARA GUARD v2.0 • ULTRA</div>
+<div style="font-family:monospace;font-size:11px;line-height:2.2;color:#555;position:relative">
+<div style="color:#f5f5f3;margin-bottom:16px;font-size:13px">— live telemetry —</div>
+<span style="color:#22c55e">●</span> threat_model: <span style="color:#f5f5f3">zero-trust</span><br>
+<span style="color:#22c55e">●</span> encryption: <span style="color:#f5f5f3">AES-256-GCM + mTLS</span><br>
+<span style="color:#22c55e">●</span> region: <span style="color:#f5f5f3">Kampala [HQ] → Global Edge</span><br>
+<span style="color:#22c55e">●</span> clients: <span style="color:#f5f5f3">schools / fintech / commerce</span><br>
+<span style="<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Omara Enterprise Guard — Enterprise Security Platform</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,system-ui;background:#fcfcf9;color:#111}
