@@ -1,4 +1,19 @@
-# Hi,# Hi<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Elijah — Security Engineer | Omara Enterprise Guard</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:'Inter',system-ui;background:#fff;color:#0a0a0a;line-height:1.6}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+.nav{height:64px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #eaeaea;position:sticky;top:0;background:rgba(255,255,255,0.9);backdrop-filter:blur(12px);z-index:10}
+.logo{font-weight:800;letter-spacing:-0.5px}.logo span{color:#666;font-weight:400;margin-left:8px;font-size:13px}
+.hero{padding:120px 0 80px;display:grid;grid-template-columns:1.2fr 0.8fr;gap:60px;align-items:center}
+@media(max-width:800px){.hero{grid-template-columns:1fr;padding:60px 0 40px}}
+.kicker{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#666;font-weight:600;margin-bottom:20px}
+h1{font-size:56px;line-height:0.95;letter-spacing:-2.5px;font-weight:800;margin# Hi,# Hi<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
