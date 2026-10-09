@@ -1,4 +1,25 @@
-<!DOCTYPE html>
+<!# Omara Elijah — Security Engineer 🇺🇬
+### Founder — Omara Enterprise Guard
+
+Enterprise-grade security & monitoring, trusted for modern apps.
+Built from Kampala for global clients.
+
+---
+
+| Service | Security | Delivery |
+| :--- | :--- | :--- |
+| **Enterprise Guard Platform** | Zero-Trust / AES-256 | Active |
+| **Secure Mobile Apps** | Encrypted + Biometric | 7-14 days |
+| **School / Business Systems** | Role-Based + Audited | 14-21 days |
+| **Ecommerce APIs** | mTLS + Rate-Limited | 10-18 days |
+
+**Trust:** NDA • You Own 100% Code • 100% Confidential • 6 Months Support • Verified Local
+
+### Stack
+`Python` `JavaScript` `Security` `Linux` `React` `Node.js`
+
+### Contact
+📧 omaraelijah74@gmail.com — Kampala, Uganda — [Website](https://omaraelijah74-oss.github.io) — [Start Project →](mailto:omaraelijah74@gmail.com) html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
