@@ -2,6 +2,42 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Enterprise Guard</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#020617;color:#fff;font-family:Inter,system-ui}
+.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:radial-gradient(700px at 30% 20%,rgba(34,211,238,0.15),transparent 60%),#020617;padding:24px}
+.box{max-width:900px;width:100%;border:1px solid rgba(34,211,238,0.15);border-radius:32px;
+background:rgba(15,23,42,0.6);backdrop-filter:blur(24px);padding:64px;text-align:center}
+@media(max-width:600px){.box{padding:36px 24px}}
+h1{font-size:56px;letter-spacing:-3px;line-height:0.9}
+@media(max-width:600px){h1{font-size:38px}}
+p{color:#94a3b8;margin:20px auto;max-width:520px;line-height:1.6;font-size:17px}
+.btn{display:inline-block;margin:8px;padding:14px 28px;border-radius:100px;font-weight:700;text-decoration:none;font-size:14px}
+.b1{background:#fff;color:#000}.b2{border:1px solid #1e293b;color:#fff}
+.tag{font-size:10px;letter-spacing:2px;color:#22d3ee;border:1px solid rgba(34,211,238,0.3);padding:6px 12px;border-radius:100px;display:inline-block;margin-bottom:24px}
+</style>
+</head>
+<body>
+<div class="hero">
+<div class="box">
+<div class="tag">OMARA ENTERPRISE GUARD • KAMPALA 🇺🇬</div>
+<h1>Security infrastructure<br>for modern apps.</h1>
+<p>Omara Elijah — Security Engineer. Enterprise-grade security & monitoring, built from Uganda for global clients.</p>
+<div style="margin-top:28px">
+<a class="btn b1" href="mailto:omaraelijah74@gmail.com">Start Project →</a>
+<a class="btn b2" href="https://github.com/omaraelijah74-oss">GitHub</a>
+</div>
+<p style="font-size:11px;letter-spacing:1px;margin-top:32px;color:#475569">NDA • YOU OWN CODE • 100% SECURE • 6 MONTHS SUPPORT</p>
+</div>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Omara Elijah | Security Engineer | Omara Enterprise Guard</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
