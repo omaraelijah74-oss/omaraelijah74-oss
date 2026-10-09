@@ -1,4 +1,25 @@
-<!# Omara Elijah — Security Engineer 🇺🇬
+<div align="center">
+
+# OMARA ENTERPRISE GUARD
+**Security Infrastructure for Modern Apps**
+`Kampala 🇺🇬 → Global`
+
+![Security](omara_ultra_attractive.png)
+
+| Service | Level | Delivery |
+| :--- | :---: | :---: |
+| **Enterprise Guard** | 100% | Active |
+| **Mobile Apps** | 95% | 7-14d |
+| **School Systems** | 90% | 14-21d |
+| **Ecommerce APIs** | 92% | 10-18d |
+
+**NDA • You Own 100% Code • 100% Confidential • 6 Months Support**
+
+`Python` `JavaScript` `Security` `Linux` `React` `Node.js`
+
+[🌐 Website](https://omaraelijah74-oss.github.io) • [📧 Email](mailto:omaraelijah74@gmail.com) • [🚀 Start Project](mailto:omaraelijah74@gmail.com)
+
+</div><!# Omara Elijah — Security Engineer 🇺🇬
 ### Founder — Omara Enterprise Guard
 
 Enterprise-grade security & monitoring, trusted for modern apps.
