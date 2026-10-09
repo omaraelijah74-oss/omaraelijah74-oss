@@ -1,4 +1,53 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Enterprise Guard — Enterprise Security Platform</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,system-ui;background:#fcfcf9;color:#111}
+.nav{height:72px;border-bottom:1px solid #e8e8e3;display:flex;align-items:center;justify-content:space-between;padding:0 32px;position:sticky;top:0;background:rgba(252,252,249,0.8);backdrop-filter:blur(12px);z-index:20}
+.nav b{letter-spacing:-1px;font-size:18px}.nav b span{font-weight:400;color:#888;margin-left:6px}
+.hero{max-width:1280px;margin:0 auto;padding:80px 32px;display:grid;grid-template-columns:1.1fr 0.9fr;gap:80px;align-items:center}
+@media(max-width:900px){.hero{grid-template-columns:1fr;padding:48px 24px}}
+h1{font-size:64px;line-height:0.9;letter-spacing:-3px;font-weight:900}
+@media(max-width:900px){h1{font-size:44px}}
+.lead{font-size:19px;color:#555;margin:24px 0;line-height:1.5}
+.pill{display:inline-flex;gap:8px;align-items:center;border:1px solid #e8e8e3;background:#fff;padding:8px 14px;border-radius:100px;font-size:12px;font-weight:600;margin-bottom:20px}
+.dash{background:#111;border-radius:20px;padding:16px;box-shadow:0 40px 100px rgba(0,0,0,0.2);border:1px solid #222}
+.dash-top{height:40px;border-bottom:1px solid #222;display:flex;gap:8px;align-items:center;padding:0 12px;margin:-16px -16px 16px}
+.dot{width:12px;height:12px;border-radius:50%}.d1{background:#ff5f56}.d2{background:#ffbd2e}.d3{background:#27c93f}
+.logos{border-top:1px solid #e8e8e3;border-bottom:1px solid #e8e8e3;background:#fff;padding:20px 32px;display:flex;gap:40px;overflow:auto;white-space:nowrap;color:#999;font-size:13px;letter-spacing:2px;font-weight:700}
+.features{max-width:1280px;margin:0 auto;padding:80px 32px;display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+@media(max-width:900px){.features{grid-template-columns:1fr}}
+.feat{border:1px solid #e8e8e3;background:#fff;border-radius:16px;padding:28px}.feat h3{font-size:16px;margin-bottom:8px}.feat p{font-size:14px;color:#666;line-height:1.5}
+.cta{background:#111;color:#fff;border-radius:24px;max-width:1280px;margin:40px auto;padding:64px 32px;text-align:center}
+.btn{display:inline-block;background:#fff;color:#111;padding:14px 28px;border-radius:100px;font-weight:700;text-decoration:none;margin:6px}
+.btn-dark{background:#222;color:#fff;border:1px solid #333}
+</style>
+</head>
+<body>
+
+<div class="nav">
+<div><b>OMARA ENTERPRISE GUARD <span>Security Platform</span></b></div>
+<div style="display:flex;gap:24px;font-size:14px;font-weight:500"><span>Kampala 🇺🇬</span><a href="https://github.com/omaraelijah74-oss" style="color:#111;text-decoration:none;background:#111;color:#fff;padding:8px 16px;border-radius:100px">GitHub →</a></div>
+</div>
+
+<div class="hero">
+<div>
+<div class="pill"><span style="width:8px;height:8px;background:#22c55e;border-radius:50%;display:inline-block"></span> SYSTEM OPERATIONAL • KAMPALA HQ • SERVING GLOBAL CLIENTS</div>
+<h1>Security infrastructure for modern businesses.</h1>
+<p class="lead">Omara Enterprise Guard is an enterprise-grade security & monitoring platform. Built in Uganda, trusted worldwide for securing apps, schools, ecommerce, and business systems.</p>
+<div style="margin-top:24px">
+<a class="btn" style="background:#111;color:#fff" href="mailto:omaraelijah74@gmail.com">Start Secure Project →</a>
+<a class="btn" style="background:#fff;border:1px solid #ddd" href="https://github.com/omaraelijah74-oss">View Documentation</a>
+</div>
+<p style="margin-top:20px;font-size:12px;color:#999">✓ SOC2 Mindset • ✓ NDA Protected • ✓ You Own 100% Code • ✓ 6 Months Support • Founded by Omara Elijah</p>
+</div>
+
+<div class="dash">
+<div class="dash-top"><div class="dot d1"></div><div class="dot d2"></div><div class="dot d3"></div><div style="margin-left:12px;color:#666;font-size:12px;font-family:monospace">guard.omara.live — monitoring</div></div>
+<div style="font-family:monospace;font-size:12px;line-height:2;color<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
