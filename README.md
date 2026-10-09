@@ -6,6 +6,25 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#020617;color:#fff;font-family:Inter,system-ui}
+.hero{min-height:90vh;display:flex;align-items:center;justify-content:center;background:radial-gradient(700px at 30% 20%,rgba(34,211,238,0.15),transparent),#020617;padding:24px}
+.box{max-width:900px;width:100%;border:1px solid rgba(34,211,238,0.15);border-radius:32px;background:rgba(15,23,42,0.6);backdrop-filter:blur(24px);padding:56px;text-align:center}
+h1{font-size:52px;letter-spacing:-3px;line-height:0.9}
+table{width:100%;border-collapse:collapse;margin:32px 0;font-size:14px;text-align:left}
+th{color:#475569;font-size:11px;letter-spacing:1px;text-transform:uppercase;padding:12px;border-bottom:1px solid #1e293b}
+td{padding:14px 12px;border-bottom:1px solid rgba(255,255,255,0.05);color:#cbd5e1}
+td b{color:#fff}
+.bar{height:6px;background:#1e293b;border-radius:100px;overflow:hidden;margin-top:8px}
+.fill{height:100%;background:#22d3ee}
+.btn{display:inline-block;margin:8px;padding:14px 28px;border-radius:100px;font-weight:700;text-decoration:none;font-size:14px}
+.b1{background:#fff;color:#000}.b2{border:1px solid #1e293b
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Enterprise Guard</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#020617;color:#fff;font-family:Inter,system-ui}
 .hero{min-height:100vh;display:flex;align-items:center;justify-content:center;
 background:radial-gradient(700px at 30% 20%,rgba(34,211,238,0.15),transparent 60%),#020617;padding:24px}
 .box{max-width:900px;width:100%;border:1px solid rgba(34,211,238,0.15);border-radius:32px;
