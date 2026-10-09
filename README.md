@@ -1,5 +1,79 @@
 <!DOCTYPE html>
+<html lang="e<!DOCTYPE html>
 <html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Elijah — Security Engineer | Omara Enterprise Guard</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:'Inter',system-ui;background:#fff;color:#0a0a0a;line-height:1.6}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+.nav{height:64px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #eaeaea;position:sticky;top:0;background:rgba(255,255,255,0.9);backdrop-filter:blur(12px);z-index:10}
+.logo{font-weight:800;letter-spacing:-0.5px}.logo span{color:#666;font-weight:400;margin-left:8px;font-size:13px}
+.hero{padding:120px 0 80px;display:grid;grid-template-columns:1.2fr 0.8fr;gap:60px;align-items:center}
+@media(max-width:800px){.hero{grid-template-columns:1fr;padding:60px 0 40px}}
+.kicker{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#666;font-weight:600;margin-bottom:20px}
+h1{font-size:56px;line-height:0.95;letter-spacing:-2.5px;font-weight:800;margin-bottom:20px}
+@media(max-width:800px){h1{font-size:40px}}
+.sub{font-size:18px;color:#52525b;max-width:520px;margin-bottom:32px}
+.cta{display:flex;gap:12px}
+.btn{padding:12px 20px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block}
+.btn-black{background:#0a0a0a;color:#fff}.btn-white{border:1px solid #e4e4e7;color:#0a0a0a;background:#fff}
+.code{background:#0a0a0a;color:#a1a1aa;border-radius:16px;padding:24px;font-family:monospace;font-size:13px;line-height:1.8;border:1px solid #1f1f1f}
+.code b{color:#fff}.code .green{color:#22c55e}.code .blue{color:#60a5fa}
+.trust{border-top:1px solid #f4f4f5;border-bottom:1px solid #f4f4f5;background:#fafafa;padding:18px 0;overflow:hidden;white-space:nowrap}
+.trust span{font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#71717a;font-weight:600;margin-right:48px}
+.grid{padding:80px 0;display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#eaeaea;border:1px solid #eaeaea}
+@media(max-width:800px){.grid{grid-template-columns:1fr}}
+.item{background:#fff;padding:32px}.item h3{font-size:15px;margin-bottom:10px;letter-spacing:-0.2px}.item p{font-size:14px;color:#52525b}
+.footer{padding:40px 0;color:#a1a1aa;font-size:13px;border-top:1px solid #eaeaea;margin-top:40px}
+</style>
+</head>
+<body>
+
+<div class="wrap nav">
+<div class="logo">OMARA ELIJAH <span>SECURITY ENGINEER • KAMPALA 🇺🇬</span></div>
+<div style="font-size:13px;font-weight:600">omaraelijah74-oss.github.io</div>
+</div>
+
+<div class="wrap hero">
+<div>
+<div class="kicker">Founder — Omara Enterprise Guard</div>
+<h1>Enterprise-grade security & monitoring, trusted for modern apps.</h1>
+<p class="sub">I'm a Security Engineer from Uganda. I build scalable security solutions, threat monitoring, and enterprise systems. Available for freelance & remote work.</p>
+<div class="cta">
+<a class="btn btn-black" href="https://github.com/omaraelijah74-oss">View Work — GitHub</a>
+<a class="btn btn-white" href="mailto:omaraelijah74@gmail.com">Contact</a>
+</div>
+<p style="margin-top:20px;font-size:12px;color:#a1a1aa">✓ NDA • ✓ You Own Code • ✓ 100% Confidential • ✓ 6 Months Support • Kampala Verified</p>
+</div>
+<div class="code">
+<b>› omara-enterprise-guard</b><br>
+<span class="green">●</span> Threat Monitoring: ACTIVE<br>
+<span class="green">●</span> Enterprise Security: SECURED<br>
+<span class="green">●</span> Data Protection: ENCRYPTED<br><br>
+<span class="blue">services:</span><br>
+&nbsp;&nbsp;- cybersecurity audits<br>
+&nbsp;&nbsp;- secure apps & apis<br>
+&nbsp;&nbsp;- school / business systems<br>
+&nbsp;&nbsp;- ecommerce & custom software<br><br>
+<span style="color:#52525b"># Built in Kampala, Uganda — for global clients</span>
+</div>
+</div>
+
+<div class="trust"><div class="wrap"><span>Python</span><span>JavaScript</span><span>Security</span><span>Linux</span><span>Enterprise Systems</span><span>Threat Monitoring</span><span>Mobile Apps</span><span>Business Systems</span></div></div>
+
+<div class="wrap grid">
+<div class="item"><h3>🛡️ Security First</h3><p>Every project built with enterprise-grade security, encryption, and monitoring from day one.</p></div>
+<div class="item"><h3>🔒 Client Protection</h3><p>NDA signed, 100% confidential, you own 100% source code, money-back guarantee.</p></div>
+<div class="item"><h3>📍 Verified Local</h3><p>Based in Kampala, Uganda. Available to meet in person. Remote worldwide.</p></div>
+</div>
+
+<div class="wrap footer">© 2026 Omara Elijah — Omara Enterprise Guard. Security Engineer from Uganda.</div>
+
+</body>
+</html>n">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
