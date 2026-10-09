@@ -1,4 +1,63 @@
 <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Omara Elijah — Building Secure Future from Uganda 🇺🇬</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,system-ui;background:#fff;color:#111}
+.wrap{max-width:900px;margin:0 auto;padding:0 24px}
+.hero{padding:110px 0 60px;text-align:center}
+h1{font-size:52px;line-height:0.9;letter-spacing:-3px;font-weight:900}
+h1 span{background:linear-gradient(90deg,#111,#888);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+@media(max-width:600px){h1{font-size:38px}}
+.mission{font-size:20px;color:#444;margin:28px auto;max-width:620px;line-height:1.5}
+.btn{display:inline-block;background:#111;color:#fff;padding:16px 32px;border-radius:100px;font-weight:700;text-decoration:none;margin:8px;font-size:15px}
+.btn2{background:#fff;color:#111;border:1px solid #ddd}
+.stats{display:flex;justify-content:center;gap:40px;margin:60px 0;flex-wrap:wrap}
+.stats b{font-size:36px;display:block;letter-spacing:-1px}.stats span{font-size:12px;letter-spacing:2px;color:#888;text-transform:uppercase}
+.story{background:#111;color:#fff;border-radius:24px;padding:48px;margin:20px 0}
+.story h2{font-size:28px;letter-spacing:-1px;margin-bottom:16px}
+.story p{color:#a1a1aa;font-size:17px;line-height:1.6}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:30px 0}
+@media(max-width:600px){.grid{grid-template-columns:1fr}}
+.box{border:1px solid #eee;border-radius:20px;padding:28px}
+.box h3{font-size:16px;margin-bottom:8px}.box p{color:#666;font-size:14px;line-height:1.5}
+.follow{background:#f6f6f5;border-radius:24px;padding:48px;text-align:center;margin:40px 0}
+</style>
+</head>
+<body>
+
+<div class="wrap hero">
+<p style="letter-spacing:4px;font-size:11px;color:#888;font-weight:700;margin-bottom:24px">KAMPALA, UGANDA 🇺🇬 → WORLDWIDE</p>
+<h1>I'm building <span>Omara Enterprise Guard</span> to secure Africa's digital future.</h1>
+<p class="mission">Security Engineer. Founder. I help businesses, schools, and startups build apps that are <b>secure, fast, and trusted</b> — from Uganda to the world.</p>
+
+<a class="btn" href="https://github.com/omaraelijah74-oss">⭐ Follow My Journey on GitHub</a>
+<a class="btn btn2" href="mailto:omaraelijah74@gmail.com">Work With Me →</a>
+
+<div class="stats">
+<div><b>100%</b><span>Secure & Confidential</span></div>
+<div><b>NDA</b><span>You Own Code</span></div>
+<div><b>24/7</b><span>Support Mindset</span></div>
+</div>
+</div>
+
+<div class="wrap">
+<div class="story">
+<h2>Why clients trust me — and why followers stay.</h2>
+<p>I don't just write code. I protect your idea like it's mine. NDA signed. Data encrypted. No hidden fees. 6 months free support. Meet me in Kampala if you want — I'm real, verified, and local.<br><br>
+<b style="color:#fff">My mission:</b> Show that world-class security engineering can come from Uganda. Follow the build in public.</p>
+</div>
+
+<div class="grid">
+<div class="box"><h3>🛡️ Omara Enterprise Guard</h3><p>Enterprise-grade security & monitoring system trusted for modern apps. Live threat monitoring.</p></div>
+<div class="box"><h3>🚀 I Build</h3><p>Secure Mobile Apps, Websites, Ecommerce, School Systems, Business Systems, APIs.</p></div>
+<div class="box"><h3>🔐 Security First</h3><p>Cybersecurity audits, threat monitoring, data protection — built in from day one.</p></div>
+<div class="box"><h3>🤝 How I Work</h3><p>Clear price. On-time. You own 100% code. Money-back guarantee. No story.</p></div>
+</div>
+
+<div class="follow">
+<h2 style<!DOCTYPE html>
 <html lang="e<!DOCTYPE html>
 <html lang="en">
 <head>
